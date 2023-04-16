@@ -2,7 +2,7 @@
 
 ## General Info
 Hello we meet around 6pm on tuesday, friday, and sunday *note we may meet on other days if the situation calls for it.
-read this if you dont know how to use github. https://docs.github.com/en/get-started/quickstart/hello-world. 
+read this if you dont know how to use github. https://docs.github.com/en/get-started/quickstart/hello-world. Start with GitHub flow and read the rest if you want.
 
 Use this repository to store documentation, cad files, code, and anything usefull about the robot.
 
