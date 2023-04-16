@@ -1,4 +1,6 @@
 # 3303A-2023-2024
+
+##General Info
 Hello we meet around 6pm on tuesday, friday, and sunday *note we may meet on other days if the situation calls for it.
 read this if you dont know how to use github. https://docs.github.com/en/get-started/quickstart/hello-world. 
 
@@ -6,7 +8,7 @@ Use this repository to store documentation, cad files, code, and anything useful
 
 Stuff we are using [idk ask adith later]
 
-Useful links
+##Useful links
 
 How write a notebook https://vrc-kb.recf.org/hc/en-us/categories/9625651590423-Notebooks
 
